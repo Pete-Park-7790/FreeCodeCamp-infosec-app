@@ -7,7 +7,7 @@
 		"start": "node myApp.js"
 	},
 	"dependencies": {
-		"express": "^4.14.0",
+		"express": "^4.21.2",
 		"helmet": "3.21.3"
 	},
 	"keywords": [
@@ -16,5 +16,14 @@
 		"express",
 		"freecodecamp"
 	],
-	"license": "MIT"
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Pete-Park-7790/FreeCodeCamp-infosec-app.git"
+	},
+	"author": "",
+	"bugs": {
+		"url": "https://github.com/Pete-Park-7790/FreeCodeCamp-infosec-app/issues"
+	},
+	"homepage": "https://github.com/Pete-Park-7790/FreeCodeCamp-infosec-app#readme"
 }
